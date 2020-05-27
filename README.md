@@ -6,8 +6,8 @@ Yes I am reworking the game (because the code was ugly...)
 
 -Base Game :
  
- Chapter 1
+            Chapter 1
 
- Endless Mode
+            Endless Mode
 
- And more !
+            And more !
