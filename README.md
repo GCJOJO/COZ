@@ -7,5 +7,7 @@ Yes I am reworking the game (because the code was ugly...)
 -Base Game :
  
  Chapter 1
+
  Endless Mode
+
  And more !
