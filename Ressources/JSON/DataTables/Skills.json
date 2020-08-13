@@ -1,0 +1,14 @@
+[
+	{
+		"Name": "DoubleJump",
+		"Description": "NSLOCTEXT(\"[4EA9B65B491EDE1B7F73DBBD7F5A44E4]\", \"278B71AC410C09502D8F25A1AF0CFA02\", \"Permet de sauter une seconde fois\")",
+		"Type": "DoubleJump",
+		"Activated": false
+	},
+	{
+		"Name": "TestSkill",
+		"Description": "NSLOCTEXT(\"[4EA9B65B491EDE1B7F73DBBD7F5A44E4]\", \"C06B0CDD4C05F3B5A8C461AD17F74069\", \"DEVLOPMENT ONLY\")",
+		"Type": "Test",
+		"Activated": false
+	}
+]
