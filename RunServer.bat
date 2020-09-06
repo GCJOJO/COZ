@@ -1,0 +1,1 @@
+Saved\StagedBuilds\WindowsServer\COZServer.exe Game\Levels\MainWorld -log
