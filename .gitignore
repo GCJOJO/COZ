@@ -57,6 +57,10 @@ Build/*
 Build/*/**
 !Build/*/PakBlacklist*.txt
 
+!Build/Linux/Application.png
+!Build/Android/project.properties
+!Build/Linux/Application.png
+
 # Don't ignore icon files in Build
 !Build/**/*.ico
 
