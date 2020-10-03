@@ -10,8 +10,11 @@ The Game use the source build of Unreal Engine !
 
 -Base Game :
  
-            Chapter 1
+            Tutorial + Chapter 1
 
             Endless Mode
 
+            Basic System
+            Basic Items
+            Basic Weapons
             And more !
