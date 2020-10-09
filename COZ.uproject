@@ -98,5 +98,15 @@
 			"Name": "OneSkyLocalizationService",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"AllDesktop",
+		"IOS",
+		"LinuxNoEditor",
+		"LinuxAArch64NoEditor",
+		"MacNoEditor",
+		"WindowsNoEditor",
+		"WindowsNoEditorWin32"
 	]
 }
