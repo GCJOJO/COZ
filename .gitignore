@@ -76,3 +76,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Releases/1.0/Android_ETC2/AssetRegistry.bin
+Releases/1.0/Android_ETC2/COZ-Android_ETC2.pak
