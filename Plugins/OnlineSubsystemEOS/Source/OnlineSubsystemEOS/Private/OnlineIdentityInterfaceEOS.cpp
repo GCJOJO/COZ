@@ -1,5 +1,5 @@
 // Copyright (C) Gaslight Games Ltd, 2019-2020
-
+/*
 #include "OnlineIdentityInterfaceEOS.h"
 #include "OnlineSubsystem.h"
 #include "OnlineSubsystemEOS.h"
@@ -284,4 +284,4 @@ void FOnlineIdentityEOS::LogoutCompleteCallback( const EOS_Auth_LogoutCallbackIn
 		MessageText = FString::Printf( TEXT( "EOS Login: Failed to retrieve EOS Online Identity Interface." ) );
 		UE_LOG_ONLINE_IDENTITY( Warning, TEXT( "%s" ), *MessageText );
 	}
-}
+}*/
